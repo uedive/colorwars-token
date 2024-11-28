@@ -1,0 +1,12 @@
+{
+  "name": "ColorWarsCoin",
+  "symbol": "CLW",
+  "description": "Tokens used for voting on colors for specific pixels in ColorWars.",
+  "image": "https://colorwars.net/imgs/CLW.PNG",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
